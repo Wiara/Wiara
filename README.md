@@ -18,6 +18,3 @@
 <a href="https://github.com/Wiara" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Wiara" alt="Wiara" /> </p>
-
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/415147004314910730)](https://discord.com/users/415147004314910730)
