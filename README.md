@@ -1,9 +1,6 @@
-### Hi There :wave: I'm Rowy
+### Hi There :wave: I'm Wiara
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852627413228847105
-                            )](https://discord.com/users/852627413228847105)
-
-![](https://komarev.com/ghpvc/?username=RowyHere&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Wiara&label=PROFILE+VIEWS)
 
 ## My Social Media:
 
