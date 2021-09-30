@@ -1,6 +1,6 @@
 <img src="https://cdn.discordapp.com/attachments/798533990508265472/892842431563837470/tumblr_1e62f30196484bb9b1670bd5417b986e_8db05e8a_400.gif" align="right" width="400" height="250">
 
-### Hello İm Wiara <img src="https://cdn.discordapp.com/attachments/798533990508265472/892852455791014009/875486744433283143.gif?v=1" height="20px"></h2>
+### Hello Im Wiara <img src="https://cdn.discordapp.com/attachments/798533990508265472/892852455791014009/875486744433283143.gif?v=1" height="20px"></h2>
 
 <p align="left">Merhaba, Ben Wiara Discord Botları Ve Discord Editleri Yapıyorum.
 
