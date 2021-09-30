@@ -1,5 +1,8 @@
 ### Hi There :wave: I'm Wiara
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/415147004314910730
+                            )](https://discord.com/users/415147004314910730)
+
 ![](https://komarev.com/ghpvc/?username=Wiara&label=PROFILE+VIEWS)
 
 ## My Social Media:
