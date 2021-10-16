@@ -4,6 +4,7 @@
                             )](https://discord.com/users/415147004314910730)
 
 ![](https://komarev.com/ghpvc/?username=Wiara&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Wiara-username&color=dc143c)
 
 ## My Social Media:
 
