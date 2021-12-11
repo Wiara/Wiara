@@ -1,10 +1,10 @@
 ### Hi There :wave: I'm Wiara
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/415147004314910730
-                            )](https://discord.com/users/415147004314910730)
-                            <br />
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/690972911367880754
-                            )](https://discord.com/users/690972911367880754)                            
+                            )](https://discord.com/users/690972911367880754)   
+                            <br />
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/415147004314910730
+                            )](https://discord.com/users/415147004314910730)                          
 
 ![](https://komarev.com/ghpvc/?username=Wiara&label=PROFILE+VIEWS&color=dc143c)
 
