@@ -1,4 +1,4 @@
-Wiara
+wiara
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/690972911367880754
                             )](https://discord.com/users/690972911367880754)   
