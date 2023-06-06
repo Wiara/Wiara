@@ -1,5 +1,5 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/690972911367880754
-                            )](https://discord.com/users/690972911367880754)   
+                            )](https://discord.com/users/852661031825047632)   
                             <br />  
 
 ![](https://komarev.com/ghpvc/?username=Wiara&label=PROFILE+VIEWS&color=dc143c)
