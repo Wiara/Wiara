@@ -1,9 +1,3 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852661031825047632
-                            )](https://discord.com/users/852661031825047632)   
-                            <br />  
-
-![](https://komarev.com/ghpvc/?username=Wiara&label=PROFILE+VIEWS&color=dc143c)
-
 ## My Social Media:
 
 <p align="left">
